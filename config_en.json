@@ -1,1 +1,329 @@
-{"HorizonLayout":[{"layout":"bannerImage","design":"swiper","fit":"cover","marginLeft":0.0,"items":[{"key":"dlFNjWbXFz","type":"image","image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f547207a491c5416a4ea5/download/Untitled_design_(1).jpg","video":"","products":[],"productLength":3,"showSubcategory":false,"bannerWithProduct":false,"defaultShowProduct":false,"category":"257"},{"key":"basYBxcNXk","name":"ការបោះជំរុំ និងការឡើងភ្នំ","type":"image","image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f56a3d04da90c0f93f835/download/2.jpg","video":"","products":[],"productLength":3,"showSubcategory":false,"bannerWithProduct":false,"defaultShowProduct":false,"category":"237"},{"key":"kJYNKyBQEd","type":"image","image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f56ca3e3f0728d977828c/download/4.jpg","video":"","products":[],"productLength":3,"showSubcategory":false,"bannerWithProduct":false,"defaultShowProduct":false,"category":"261"},{"key":"RZVqGKHlpU","name":"ចង្ក្រានប្រេង","type":"image","image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f5710d56069396515c07f/download/Untitled_design_(2).jpg","video":"","products":[],"productLength":3,"showSubcategory":false,"bannerWithProduct":false,"defaultShowProduct":false,"category":"255"}],"marginBottom":10.0,"marginRight":0.0,"marginTop":20.0,"radius":25.0,"padding":5.0,"parallax":false,"parallaxImageRatio":1.2,"isHorizontal":false,"enableBackground":false,"indicatorAlignment":{"value":"bottomCenter"},"indicatorPadding":{"start":0.0,"top":0.0,"end":0.0,"bottom":12.0},"numberAlignment":{"value":"topEnd"},"numberPadding":{"start":0.0,"top":15.0,"end":0.0,"bottom":0.0},"isSlider":true,"autoPlay":false,"intervalTime":3,"showIndicator":true,"showNumber":false,"isBlur":false,"showBackground":false,"upHeight":0.0,"videoConfig":{"autoPlay":false,"aspectRatio":1.7777777777777777,"enableTimeIndicator":false,"tapToPlayPause":true,"holdToPlayPause":false,"isSoundOn":false,"doubleTapToFullScreen":false,"showVolumeButton":true,"showFullScreenButton":true,"enableLoop":false,"showLoading":false,"backgroundColor":null},"pageIndicatorType":"line"},{"type":"icon","wrap":true,"horizontalItem":false,"columns":4,"layout":"category","marginLeft":10.0,"marginRight":10.0,"marginTop":20.0,"marginBottom":20.0,"separateWidth":24.0,"shadow":null,"gradientStyle":false,"items":[{"originalColor":true,"backgroundColor":"fffff176","title":"Drone","name":null,"keepDefaultTitle":true,"colors":null,"image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f1e6babbbc498286c9368/download/drone_cate-no_backgound.png","tag":null,"category":"257","showDescription":true,"productType":false,"orderby":null,"order":null,"onSale":false,"featured":false,"showText":null,"description":"","productListAnimationConfig":null},{"originalColor":true,"backgroundColor":"ff00bcd4","title":"Tent","name":null,"keepDefaultTitle":true,"colors":null,"image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f206043e0da2ac2327c9f/download/Two_Person_Tent-no_background.png","tag":null,"category":"237","showDescription":true,"productType":false,"orderby":null,"order":null,"onSale":false,"featured":false,"showText":null,"description":"","productListAnimationConfig":null},{"originalColor":true,"backgroundColor":"ff9575cd","title":"Household","name":null,"keepDefaultTitle":true,"colors":null,"image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f21a6a7348510ed3fee50/download/household-no_background.png","tag":null,"category":"261","showDescription":true,"productType":false,"orderby":null,"order":null,"onSale":false,"featured":false,"showText":null,"description":"","productListAnimationConfig":null},{"originalColor":true,"backgroundColor":"ff81c784","title":"Cooking Set","name":null,"keepDefaultTitle":true,"colors":null,"image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f2213f4828a6de61daee1/download/cooking_pot-no_background.png","tag":null,"category":"249","showDescription":true,"productType":false,"orderby":null,"order":null,"onSale":false,"featured":false,"showText":null,"description":"","productListAnimationConfig":null},{"originalColor":true,"backgroundColor":"fff48fb1","title":"Stove","name":null,"keepDefaultTitle":true,"colors":null,"image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f23b50f4d3b4693077e2e/download/camping_stove-no_background.png","tag":null,"category":"247","showDescription":true,"productType":false,"orderby":null,"order":null,"onSale":false,"featured":false,"showText":null,"description":"","productListAnimationConfig":null},{"originalColor":true,"backgroundColor":"ffe0e0e0","title":"Phone","name":null,"keepDefaultTitle":true,"colors":null,"image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f2483d4e346a49dd2d987/download/phone-no_background.png","tag":null,"category":"251","showDescription":true,"productType":false,"orderby":null,"order":null,"onSale":false,"featured":false,"showText":null,"description":"","productListAnimationConfig":null},{"originalColor":true,"backgroundColor":"ffff8a65","title":"Oil Stove","name":null,"keepDefaultTitle":true,"colors":null,"image":"https://raw.githubusercontent.com/fluxbuilder/images/main/2026/7/13193c2c5638/1783572250297.png","tag":null,"category":"255","showDescription":true,"productType":false,"orderby":null,"order":null,"onSale":false,"featured":false,"showText":null,"description":"","productListAnimationConfig":null},{"originalColor":true,"backgroundColor":"ffa1887f","title":"Parts","name":null,"keepDefaultTitle":true,"colors":null,"image":"https://trello.com/1/cards/6a4f1e6831e3774363ba0c3e/attachments/6a4f27e41905427ec332a18c/download/Automobile-no_background.png","tag":null,"category":"253","showDescription":true,"productType":false,"orderby":null,"order":null,"onSale":false,"featured":false,"showText":null,"description":"","productListAnimationConfig":null}],"enableBackground":null,"paddingX":0.0,"paddingY":0.0,"marginX":0.0,"marginY":0.0,"imageBoxFit":"cover","textAlignment":"topLeft","radius":50.0,"spacing":0.0,"imageBorderStyle":"solid","imageSpacing":0.0,"size":2.0,"enableBorder":true,"boxShadow":{"blurRadius":10.0,"colorOpacity":0.1,"spreadRadius":10.0,"x":0.0,"y":10.0},"hideTitle":false,"originalColor":false,"noBackground":false,"labelFontSize":11.0,"animationConfig":null,"allowFilterMultipleCategory":false,"productCategoryMenuStyle":"menu","categoryMenuShowDepth":false},{"category":"257","name":"DRONES","layout":"twoColumn","isSnapping":false,"borderRadius":15.0,"hMargin":0.0,"useCircularRadius":true,"useSort":false,"showCategory":false,"vMargin":0.0,"hPadding":8.0,"vPadding":9.0,"boxShadow":{"blurRadius":10.0,"colorOpacity":0.1,"spreadRadius":10.0,"x":7.0,"y":9.0},"backgroundImage":"https://i.imgur.com/vwnlpzp.png","spaceWidth":150,"paddingBGP":{"left":0.0,"right":0.0,"top":10.0,"bottom":15.0},"marginBGP":{"left":0.0,"right":0.0,"top":10.0,"bottom":0.0},"backgroundHeight":313,"backgroundBoxFit":"contain","cardDesign":"card","titleLine":1,"order":"desc","orderby":"date","limit":10,"advancedParams":{},"backgroundRadius":0.0,"showCountDown":false,"onSale":false,"rows":1,"columns":0,"imageRatio":1.0,"imageBoxfit":"contain","hidePrice":false,"hideStore":true,"hideTitle":false,"hideAddress":false,"featured":false,"enableRating":true,"showStockStatus":true,"showStockQuantity":false,"hideEmptyProductListRating":false,"showHeart":true,"showProductCardCategory":false,"showPhoneNumber":false,"showShortDescription":false,"showListingType":true,"showCartButton":false,"showCartIcon":false,"showCartIconColor":false,"cartIconRadius":9.0,"showQuantity":false,"enableBottomAddToCart":false,"showOnlyImage":false,"showCartButtonWithQuantity":false,"cartButtonQuantitySize":40.0,"parallax":false,"parallaxImageRatio":1.2,"hideEmptyProductLayout":false,"productListItemHeight":0.0,"enableAutoSliding":false},{"category":"237","name":"TENTS & SHELTERS","layout":"threeColumn","isSnapping":false,"borderRadius":15.0,"hMargin":3.0,"useCircularRadius":true,"useSort":false,"showCategory":false,"vMargin":3.0,"hPadding":3.0,"vPadding":3.0,"cardDesign":"card","titleLine":1,"order":"desc","orderby":"date","limit":10,"advancedParams":{},"backgroundRadius":10.0,"showCountDown":false,"onSale":false,"rows":2,"columns":0,"imageRatio":1.0,"imageBoxfit":"cover","hidePrice":false,"hideStore":true,"hideTitle":false,"hideAddress":false,"featured":false,"enableRating":true,"showStockStatus":true,"showStockQuantity":false,"hideEmptyProductListRating":false,"showHeart":true,"showProductCardCategory":false,"showPhoneNumber":false,"showShortDescription":false,"showListingType":true,"showCartButton":false,"showCartIcon":false,"showCartIconColor":true,"cartIconRadius":20.0,"showQuantity":false,"enableBottomAddToCart":true,"showOnlyImage":false,"showCartButtonWithQuantity":false,"cartButtonQuantitySize":40.0,"parallax":false,"parallaxImageRatio":1.2,"hideEmptyProductLayout":false,"productListItemHeight":120.0,"enableAutoSliding":false},{"category":"221","name":"CAMPING & HIKING","layout":"twoColumn","isSnapping":false,"borderRadius":15.0,"hMargin":2.0,"useCircularRadius":true,"useSort":false,"showCategory":false,"vMargin":2.0,"hPadding":0.0,"vPadding":0.0,"cardDesign":"glass","titleLine":1,"order":"desc","orderby":"date","limit":10,"advancedParams":{},"backgroundRadius":10.0,"showCountDown":false,"onSale":false,"rows":2,"columns":0,"imageRatio":1.0397843326430722,"imageBoxfit":"cover","hidePrice":false,"hideStore":false,"hideTitle":false,"hideAddress":false,"featured":false,"enableRating":true,"showStockStatus":true,"showStockQuantity":false,"hideEmptyProductListRating":false,"showHeart":true,"showProductCardCategory":false,"showPhoneNumber":false,"showShortDescription":false,"showListingType":true,"showCartButton":false,"showCartIcon":false,"showCartIconColor":false,"cartIconRadius":9.0,"showQuantity":false,"enableBottomAddToCart":false,"showOnlyImage":false,"showCartButtonWithQuantity":false,"cartButtonQuantitySize":40.0,"parallax":false,"parallaxImageRatio":1.2,"hideEmptyProductLayout":false,"productListItemHeight":100.0,"enableAutoSliding":false},{"category":"255","name":"OIL STOVE","layout":"staggered","isSnapping":false,"borderRadius":10.0,"hMargin":6.0,"useCircularRadius":true,"useSort":false,"showCategory":false,"vMargin":0.0,"hPadding":0.0,"vPadding":0.0,"cardDesign":"card","titleLine":1,"order":"desc","orderby":"date","limit":15,"advancedParams":{},"backgroundRadius":10.0,"showCountDown":false,"onSale":false,"rows":1,"columns":0,"imageRatio":1.2,"imageBoxfit":"cover","hidePrice":false,"hideStore":false,"hideTitle":false,"hideAddress":false,"enableRating":true,"showStockStatus":true,"showStockQuantity":false,"hideEmptyProductListRating":false,"showHeart":false,"showProductCardCategory":false,"showPhoneNumber":false,"showShortDescription":false,"showListingType":true,"showCartButton":false,"showCartIcon":true,"showCartIconColor":false,"cartIconRadius":9.0,"showQuantity":false,"enableBottomAddToCart":false,"showOnlyImage":false,"showCartButtonWithQuantity":false,"cartButtonQuantitySize":40.0,"parallax":false,"parallaxImageRatio":1.2,"hideEmptyProductLayout":false,"productListItemHeight":125.0,"enableAutoSliding":false},{"category":"227,251","name":"OTHER PRODUCTS","layout":"card","isSnapping":false,"borderRadius":10.0,"hMargin":6.0,"useCircularRadius":true,"useSort":false,"showCategory":false,"vMargin":0.0,"hPadding":0.0,"vPadding":0.0,"marginBGP":{"left":0.0,"right":0.0,"top":10.0,"bottom":10.0},"cardDesign":"card","titleLine":1,"order":"asc","orderby":"rating","limit":12,"advancedParams":{},"backgroundRadius":10.0,"showCountDown":false,"onSale":false,"rows":1,"columns":0,"imageRatio":1.0,"imageBoxfit":"fitHeight","hidePrice":false,"hideStore":true,"hideTitle":false,"hideAddress":false,"featured":false,"enableRating":true,"showStockStatus":true,"showStockQuantity":false,"hideEmptyProductListRating":false,"showHeart":true,"showProductCardCategory":false,"showPhoneNumber":false,"showShortDescription":false,"showListingType":true,"showCartButton":false,"showCartIcon":false,"showCartIconColor":false,"cartIconRadius":9.0,"showQuantity":false,"enableBottomAddToCart":false,"showOnlyImage":false,"showCartButtonWithQuantity":false,"cartButtonQuantitySize":40.0,"parallax":false,"parallaxImageRatio":1.2,"hideEmptyProductLayout":false,"productListItemHeight":125.0,"enableAutoSliding":false},{"category":"227,243,231,241,229,233,261,223,257,255,235,239,251,247,237,259,221,249","name":"RECENT COLLECTION","layout":"simpleList","isSnapping":false,"borderRadius":3.0,"hMargin":6.0,"useCircularRadius":true,"useSort":false,"showCategory":false,"vMargin":0.0,"hPadding":0.0,"vPadding":0.0,"cardDesign":"card","titleLine":1,"order":"desc","orderby":"date","limit":7,"advancedParams":{},"backgroundRadius":10.0,"showCountDown":false,"onSale":false,"rows":1,"columns":0,"imageRatio":1.2,"imageBoxfit":"cover","hidePrice":false,"hideStore":false,"hideTitle":false,"hideAddress":false,"featured":false,"enableRating":true,"showStockStatus":true,"showStockQuantity":false,"hideEmptyProductListRating":false,"showHeart":false,"showProductCardCategory":false,"showPhoneNumber":false,"showShortDescription":false,"showListingType":true,"showCartButton":false,"showCartIcon":true,"showCartIconColor":false,"cartIconRadius":9.0,"showQuantity":false,"enableBottomAddToCart":false,"showOnlyImage":false,"showCartButtonWithQuantity":false,"cartButtonQuantitySize":40.0,"parallax":false,"parallaxImageRatio":1.2,"hideEmptyProductLayout":false,"productListItemHeight":100.0,"enableAutoSliding":false}],"Setting":{"ShowChat":true,"MainColor":null,"FontFamily":"ABeeZee","FontHeader":"ABeeZee","StickyHeader":true,"TabBarConfig":{"color":null,"enable":true,"iconSize":25,"colorCart":null,"colorIcon":"ff432ed2","marginTop":0,"isSafeArea":true,"marginLeft":0,"paddingTop":0,"enableOnTop":false,"lazyLoading":false,"marginRight":0,"paddingLeft":0,"marginBottom":0,"paddingRight":0,"showFloating":true,"showMinimize":false,"enableDivider":false,"paddingBottom":0,"radiusTopLeft":0,"TabBarFloating":{"color":"ff432ed2","width":50,"height":50,"margin":null,"radius":50,"location":"centerDocked","position":2,"sizeIcon":25,"elevation":0,"isCoverMode":false,"notchMargin":3,"floatingType":"circle"},"bottomBarStyle":"slideEffect","indicatorStyle":"dot","radiusTopRight":0,"TabBarIndicator":{"color":"ff432ed2","height":0,"radius":0,"strokeWidth":0,"tabPosition":"top","indicatorSize":"tab","paintingStyle":"stroke","topLeftRadius":0,"topRightRadius":0,"verticalPadding":0,"bottomLeftRadius":0,"bottomRightRadius":0,"horizontalPadding":0,"distanceFromCenter":0},"colorActiveIcon":"ff03dac6","alwaysShowTabBar":false,"radiusBottomLeft":0,"showFloatingClip":true,"radiusBottomRight":0},"ProductDetail":"gallerySlider","AgeRestriction":{"title":"","enable":false,"useLogo":true,"imageUrl":"","minimumAge":21,"hintMessage":"","deniedMessage":"","alwaysShowUponOpen":true,"backgroundImageUrl":""},"ProductListLayout":"list","SmartEngagementBanner":{"popup":{"enable":false,"closePosition":"topRight","alwaysShowUponOpen":true},"sticky":{"enable":false},"flexible":{"width":100,"enable":false,"height":100,"canDrag":true,"canClose":true}}},"TabBar":[{"key":"FTLIodcHOG","pos":100,"icon":"home","layout":"home","defaultTab":true,"fontFamily":"CupertinoIcons","fullscreen":false,"showOriginalColor":false},{"key":"rtxNsfzzjKdwye","pos":500,"icon":"assets/icons/tabs/icon-heartthin.png","layout":"wishlist","visible":true,"fullscreen":false,"showOriginalColor":false},{"key":"NphAWTWPzvxLl","layout":"category","icon":"rectangle_grid_2x2","fontFamily":"CupertinoIcons","pos":400,"visible":true,"defaultTab":false,"fullscreen":true,"showOriginalColor":false,"categoryLayout":"sideMenuWithSub","categories":["221","255","257","261","251","259","253"],"parallax":false,"parallaxImageRatio":1.2,"showSearch":true,"showQRCode":true},{"key":"AckanXUZSHhRJni","pos":600,"icon":"shopping_cart","layout":"cart","visible":true,"fontFamily":"CupertinoIcons","fullscreen":false,"showOriginalColor":false},{"key":"eNXpdSVeILQvwSam","pos":700,"icon":"person","layout":"profile","settings":["language","darkTheme","vendorAdmin","products","order","chat","wishlist","notifications","delivery","my-rating","rating","privacy","button-JBRnlRoNYl"],"styleItem":"flatShadow","defaultTab":false,"fontFamily":"CupertinoIcons","fullscreen":false,"showBackground":true,"showOriginalColor":false,"subGeneralSetting":{"about":{"script":"","webUrl":"https://kingkongmarketplace.com/","enableClose":false,"webViewMode":false,"enableForward":false,"requiredLogin":false,"enableBackward":true},"privacy":{"script":"","webUrl":"https://kingkongmarketplace.com/privacy-policy/","enableClose":false,"webViewMode":false,"enableForward":false,"requiredLogin":false,"enableBackward":true},"button-JBRnlRoNYl":{"buttons":[{"image":"https://i.imgur.com/rhB6e5H.png","width":40,"height":40,"radius":0,"navigator":{"url_launch":"https://www.youtube.com/channel/UCvhlDP7H38XFF7KGPJWE4lQ","showSubcategory":false},"marginLeft":5,"marginRight":5,"textFontSize":14},{"image":"https://i.imgur.com/BpmllEi.png","width":40,"height":40,"radius":0,"navigator":{"url_launch":"https://www.facebook.com/kingkongsmart9?mibextid=zLoPMf","showSubcategory":false},"marginLeft":5,"marginRight":5,"textFontSize":14},{"image":"https://i.imgur.com/qKvwvYN.png","width":40,"height":40,"radius":0,"navigator":{"url_launch":"https://t.me/kingkongsmart9","showSubcategory":false},"marginLeft":5,"marginRight":5,"textFontSize":14},{"image":"https://i.imgur.com/oaUQDRP.png","width":40,"height":40,"radius":0,"navigator":{"url_launch":"www.tiktok.com/@kingkongsmart9","showSubcategory":false},"marginLeft":5,"marginRight":5,"textFontSize":14}],"buttonAlignment":"center"}}}],"AppBar":{"snap":true,"items":[{"key":"mxdOcdOdol","pos":100,"icon":"blur_on","size":25,"type":"icon","action":"menu","radius":25,"fontSize":16,"iconSize":25,"alignment":"center","iconColor":"ff6e2ed2","marginTop":0,"fontFamily":"MaterialIcons","fontWeight":"400","marginLeft":10,"paddingTop":0,"marginRight":0,"paddingLeft":0,"productType":true,"spacingText":3,"textOpacity":0.5,"avatarRadius":100,"marginBottom":0,"paddingRight":0,"paddingBottom":0,"headerFontSize":16,"headerFontWeight":"400","headerTextOpacity":0.5},{"pos":200,"icon":"person","size":44,"type":"space","action":"none","radius":24,"fontSize":16,"iconSize":24,"alignment":"center","marginTop":4,"fontFamily":"CupertinoIcons","fontWeight":"400","marginLeft":4,"paddingTop":4,"marginRight":4,"paddingLeft":4,"productType":true,"spacingText":3,"textOpacity":0.5,"avatarRadius":100,"marginBottom":4,"paddingRight":4,"paddingBottom":4,"headerFontSize":16,"headerFontWeight":"400","headerTextOpacity":0.5},{"key":"xDtNPjRRdX","pos":300,"icon":"search","size":44,"type":"search","action":"search","radius":25,"fontSize":15,"iconSize":25,"alignment":"center","marginTop":0,"fontFamily":"CupertinoIcons","fontWeight":"400","marginLeft":0,"paddingTop":0,"marginRight":0,"paddingLeft":0,"productType":true,"spacingText":3,"textOpacity":0,"avatarRadius":100,"marginBottom":0,"paddingRight":0,"paddingBottom":0,"headerFontSize":16,"headerFontWeight":"400","headerTextOpacity":0.5},{"key":"xELEZTwtVR","pos":400,"icon":"person","size":44,"type":"space","action":"none","radius":24,"fontSize":16,"iconSize":24,"alignment":"center","marginTop":4,"fontFamily":"CupertinoIcons","fontWeight":"400","marginLeft":4,"paddingTop":4,"marginRight":4,"paddingLeft":4,"productType":true,"spacingText":3,"textOpacity":0.5,"avatarRadius":100,"marginBottom":4,"paddingRight":4,"paddingBottom":4,"headerFontSize":16,"headerFontWeight":"400","headerTextOpacity":0.5},{"key":"NVEjSgjBVj","pos":500,"icon":"person","size":44,"type":"avatar","width":30,"action":"home","height":30,"radius":25,"fontSize":16,"iconSize":24,"alignment":"center","marginTop":0,"fontFamily":"CupertinoIcons","fontWeight":"400","marginLeft":0,"paddingTop":0,"imageBoxFit":"contain","marginRight":0,"paddingLeft":0,"productType":true,"spacingText":3,"textOpacity":0.5,"avatarRadius":25,"marginBottom":0,"paddingRight":0,"defaultAvatar":"https://raw.githubusercontent.com/fluxbuilder/images/main/2026/7/13193c2c5638/1783608094903.png","paddingBottom":0,"headerFontSize":16,"headerFontWeight":"400","headerTextOpacity":0.5},{"key":"mVcexOHJTz","pos":600,"icon":"person","size":44,"type":"space","action":"none","radius":24,"fontSize":16,"iconSize":24,"alignment":"center","marginTop":4,"fontFamily":"CupertinoIcons","fontWeight":"400","marginLeft":4,"paddingTop":4,"marginRight":4,"paddingLeft":4,"productType":true,"spacingText":3,"textOpacity":0.5,"avatarRadius":100,"marginBottom":4,"paddingRight":4,"paddingBottom":4,"headerFontSize":16,"headerFontWeight":"400","headerTextOpacity":0.5},{"key":"PmDWJAKtjI","pos":700,"icon":"location_solid","size":44,"type":"location","width":25,"action":"location","radius":25,"fontSize":16,"iconSize":25,"alignment":"centerRight","hideTitle":true,"marginTop":0,"fontFamily":"CupertinoIcons","fontWeight":"400","marginLeft":0,"paddingTop":0,"marginRight":0,"paddingLeft":0,"productType":true,"spacingText":3,"textOpacity":0.5,"avatarRadius":100,"marginBottom":0,"paddingRight":0,"paddingBottom":0,"headerFontSize":16,"headerFontWeight":"400","headerTextOpacity":0.5},{"key":"QLsgUJoFnP","pos":800,"icon":"person","size":44,"type":"space","action":"none","radius":24,"fontSize":16,"iconSize":24,"alignment":"center","marginTop":4,"fontFamily":"CupertinoIcons","fontWeight":"400","marginLeft":4,"paddingTop":4,"marginRight":4,"paddingLeft":4,"productType":true,"spacingText":3,"textOpacity":0.5,"avatarRadius":100,"marginBottom":4,"paddingRight":4,"paddingBottom":4,"headerFontSize":16,"headerFontWeight":"400","headerTextOpacity":0.5},{"key":"KKTfRFDewY","pos":900,"icon":"bell_solid","size":25,"type":"icon","action":"notification","radius":25,"fontSize":16,"iconSize":25,"alignment":"center","iconColor":"ff6e2ed2","marginTop":0,"fontFamily":"CupertinoIcons","fontWeight":"400","marginLeft":0,"paddingTop":0,"marginRight":10,"paddingLeft":0,"productType":true,"spacingText":3,"textOpacity":0.5,"avatarRadius":100,"marginBottom":0,"paddingRight":0,"paddingBottom":0,"headerFontSize":16,"backgroundColor":"0","headerFontWeight":"400","headerTextOpacity":0.5}],"enable":true,"pinned":false,"floating":true,"elevation":0,"expandedItems":[],"showOnScreens":["home"],"alwaysShowAppBar":false},"Drawer":{"key":"BHIurObKZO","logo":"https://i.imgur.com/oMGALhr.png","items":[{"show":true,"type":"home"},{"show":true,"type":"cart"},{"show":true,"type":"profile"},{"show":true,"type":"login"},{"show":true,"type":"category"},{"show":false,"type":"categories"},{"show":false,"type":"blog"}],"enable":true,"filter":0,"logoDark":null,"safeArea":false,"iconColor":null,"textColor":null,"logoConfig":{"width":53,"boxFit":"cover","height":53,"marginTop":60,"marginLeft":125,"marginRight":0,"marginBottom":10},"zoomConfig":{"angle":0,"style":"3Dout","slideWidth":0.65,"slideMargin":0,"borderRadius":16,"enableShadow":false,"backgroundImage":null,"mainScreenScale":0.3},"colorFilter":null,"subDrawerItem":{},"backgroundColor":"ff6e2ed2","backgroundImage":null},"overrideTranslation":{"@@locale":"en"},"Datetime":"2026-07-10T18:58:07.669813"}
+{
+  "Background": {
+    "height": 0.35,
+    "color": "#026DCD",
+    "image": "https://trello.com/1/cards/5dc3b80702a7994eec2ea5d0/attachments/5dc3b80802a7994eec2ea5d1/previews/5dc3b80902a7994eec2ea5fb/download/woman.jpg"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "opacity": 0.0,
+      "iconOpacity": 0.1,
+      "iconColor": "#FFFFFF"
+    },
+    {
+      "layout": "header_text",
+      "fontSize": 26.0,
+      "fontWeight": 700,
+      "showSearch": false,
+      "height": 0.09,
+      "padding": 30.0,
+      "textOpacity": 0.6,
+      "textColor": "FFFFFF",
+      "rotate": [
+        "FluxStore MV",
+        "New Arrival",
+        "Cyber Monday Sale"
+      ],
+      "type": "fade"
+    },
+    {
+      "layout": "header_search",
+      "fontSize": 18.0,
+      "text": "Search for a product"
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "height": 0.15,
+      "items": [
+        {
+          "category": 38,
+          "image": "https://trello.com/1/cards/5dc3cfb1d013e9228256a65f/attachments/5dc3d046ca1ad4183372d520/previews/5dc3d047ca1ad4183372d54e/download/background3.jpg",
+          "padding": 15.0,
+          "coupon": "blackf",
+          "radius": 9.0
+        },
+        {
+          "category": 32,
+          "image": "https://trello.com/1/cards/5dc3cfb1d013e9228256a65f/attachments/5dc3d05073f2f5131558ae6d/previews/5dc3d05173f2f5131558ae8a/download/background6.jpg",
+          "padding": 15.0
+        },
+        {
+          "category": 58,
+          "image": "https://trello.com/1/cards/5dc3cfb1d013e9228256a65f/attachments/5dc3d04caab674522a525c2b/previews/5dc3d04daab674522a525c2f/download/background5.jpg",
+          "padding": 15.0
+        }
+      ]
+    },
+
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.2,
+      "radius": 50.0,
+      "noBackground": true,
+      "columns": 4,
+      "padding": 10.0,
+      "items": [
+        {
+          "category": 38,
+          "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62aa0148f573b89e42d54/previews/60a62aa1148f573b89e42d68/download/cate1.png",
+          "colors": [
+            "#3CC2BF",
+            "#3CC2BF"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 32,
+          "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62aa1871c140b2dc13cfe/previews/60a62aa2871c140b2dc13d03/download/cate2.png",
+          "colors": [
+            "#3E6AB5",
+            "#3E6AB5"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 58,
+          "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62aa203be281b8277bde7/previews/60a62aa303be281b8277bdf6/download/cate3.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ],
+          "originalColor": true
+        },
+        {
+          "category": 37,
+          "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62aa3d9e0a3169c62b1a3/previews/60a62aa4d9e0a3169c62b1af/download/cate4.png",
+          "originalColor": true
+        },
+        {
+          "category": 43,
+          "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62aa470fef453ae5f9ca4/previews/60a62aa570fef453ae5f9cb1/download/cate5.png",
+          "originalColor": true
+        },
+        {
+          "category": 34,
+          "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62aa56170ea86aa53b99c/previews/60a62aa66170ea86aa53b9a7/download/cate6.png",
+          "originalColor": true
+        },
+        {
+          "category": 30,
+          "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62aa79078b63116d2a125/previews/60a62aa79078b63116d2a12d/download/cate7.png",
+          "originalColor": true
+        },
+        {
+          "category": 38,
+          "image": "https://trello.com/1/cards/60a62a9bca5053572a669dee/attachments/60a62aa80e1b62114801eaea/previews/60a62aa80e1b62114801eb11/download/cate8.png",
+          "originalColor": true
+        }
+      ]
+    },
+    {
+      "layout": "geoSearch",
+      "showSeeAll": true,
+      "headerText": "Nearby stores"
+    },
+    {
+      "name": "Hot Sale 🔥",
+      "image": "https://trello.com/1/cards/5f8fe6093cd3ef24d9ede5f5/attachments/5fa6243f95589a31d8aef92c/previews/5fa6244295589a31d8aef9bd/download/sale.gif",
+      "showSeeAll": true,
+      "layout": "saleOff",
+      "isSnapping": true,
+      "tag": 90
+    },
+    {"layout": "brand", "name": "Top Brand Choices", "isBrandNameShown": true , "isLogoCornerRounded":  true},
+    {
+      "name": "Recent View",
+      "layout": "recentView"
+    },
+    {
+      "name": "Latest Products",
+      "image": "",
+      "layout": "twoColumn",
+      "isSnapping": true,
+      "category": 38
+    },
+
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 32,
+          "image": "https://trello.com/1/cards/5dc3cfb1d013e9228256a65f/attachments/5dc3d0407d904b428e1fe3ed/previews/5dc3d0417d904b428e1fe3f8/download/background1.jpg",
+          "padding": 5.0
+        },
+        {
+          "category": 30,
+          "image": "https://trello.com/1/cards/5dc3cfb1d013e9228256a65f/attachments/5dc3d0407d904b428e1fe3ed/previews/5dc3d0417d904b428e1fe3f8/download/background1.jpg",
+          "padding": 5.0,
+          "featured": true
+        }
+      ]
+    },
+    {
+      "name": "Our Blog Posts",
+      "showSeeAll": true,
+      "layout": "blog"
+    },
+    {
+      "name": "New Collections",
+      "showSeeAll": true,
+      "layout": "staggered",
+      "limit": 20,
+      "category": 30
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list",
+    "StickyHeader": false,
+    "TabBarConfig": {
+      "enable": true,
+      "floating": false,
+      "iconSize": 25,
+      "colorIcon": "ff432ed2",
+      "marginTop": 0,
+      "isSafeArea": false,
+      "marginLeft": 0,
+      "paddingTop": 0,
+      "enableOnTop": false,
+      "lazyLoading": true,
+      "liquidGlass": false,
+      "marginRight": 0,
+      "paddingLeft": 0,
+      "marginBottom": 0,
+      "paddingRight": 0,
+      "showFloating": false,
+      "showMinimize": false,
+      "enableDivider": false,
+      "paddingBottom": 0,
+      "radiusTopLeft": 0,
+      "TabBarFloating": {
+        "color": "ff432ed2",
+        "width": 50,
+        "height": 50,
+        "margin": null,
+        "radius": 50,
+        "location": "centerDocked",
+        "position": 2,
+        "sizeIcon": 25,
+        "elevation": 0,
+        "isCoverMode": false,
+        "notchMargin": 3,
+        "floatingType": "circle"
+      },
+      "bottomBarStyle": "static",
+      "indicatorStyle": "material",
+      "radiusTopRight": 0,
+      "TabBarIndicator": {
+        "color": "ff432ed2",
+        "height": 0,
+        "radius": 0,
+        "strokeWidth": 0,
+        "tabPosition": "top",
+        "indicatorSize": "tab",
+        "paintingStyle": "stroke",
+        "topLeftRadius": 0,
+        "topRightRadius": 0,
+        "verticalPadding": 0,
+        "bottomLeftRadius": 0,
+        "bottomRightRadius": 0,
+        "horizontalPadding": 0,
+        "distanceFromCenter": 0
+      },
+      "colorActiveIcon": "ff03dac6",
+      "alwaysShowTabBar": true,
+      "radiusBottomLeft": 0,
+      "showFloatingClip": true,
+      "radiusBottomRight": 0
+    },
+    "ProductDetail": "gallerySlider",
+    "AgeRestriction": {
+      "title": "",
+      "enable": false,
+      "useLogo": true,
+      "imageUrl": "",
+      "minimumAge": 21,
+      "hintMessage": "",
+      "deniedMessage": "",
+      "alwaysShowUponOpen": true,
+      "backgroundImageUrl": ""
+    },
+    "SmartEngagementBanner": {
+      "popup": {
+        "enable": false,
+        "closePosition": "topRight",
+        "alwaysShowUponOpen": true
+      },
+      "sticky": {
+        "enable": false
+      },
+      "flexible": {
+        "width": 100,
+        "enable": false,
+        "height": 100,
+        "canDrag": true,
+        "canClose": true
+      }
+    }
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "vendorLayout": "grid",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": [
+    "Here are some suggestions:",
+    "Print",
+    "T-Shirt",
+    "Jersey",
+    "Hoodie"
+  ]
+}
